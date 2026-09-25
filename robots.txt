@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.feijiyunjc.com/sitemap.xml
